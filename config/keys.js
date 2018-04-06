@@ -1,4 +1,5 @@
 module.exports = {
   googleClientID: 'string',
-  googleClientSecret: 'string'
+  googleClientSecret: 'string',
+  mongoURI: 'string'
 }
